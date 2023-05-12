@@ -13,5 +13,7 @@
  ### Main skills:
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java)](https://skills.thijs.gg)
 
-### Studying in this moment:
-[![My Skills](https://skills.thijs.gg/icons?i=js,java)](https://skills.thijs.gg)
+### Certificados:
+[Programação Web com Java](https://github.com/renan-castro/certificados/blob/main/CERTIFICADOS%20-%20Outubro%2022-65.pdf) <br>
+[Programação Web com JavaScript](https://github.com/renan-castro/certificados/blob/main/CERTIFICADOS%20-%20Outubro%2022-98.pdf) <br>
+[Suporte Técnico em Tecnologia da Informação](https://github.com/renan-castro/certificados/blob/main/CERTIFICADO_RENAN_DE_CASTRO_RODRIGUES.pdf)
