@@ -7,9 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-castro&layout=compact&hide_border=true&title_color=89cff0&text_color=89cff0&bg_color=0d1117" />
 </div>
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=renan-castro&bg_color=0d1117&color=89cff0&line=89cff0&point=89cff0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
  ### Main skills:
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java)](https://skills.thijs.gg)
 
