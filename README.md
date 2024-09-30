@@ -9,7 +9,7 @@
 
  ### Main skills:
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java)](https://skills.thijs.gg)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" />
+<img  width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" />
           
 
 ### Certificados:
