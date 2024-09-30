@@ -8,7 +8,7 @@
 </div>
 
  ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=java,js,css,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,css,html, mysql, github, php, git, prisma)](https://skillicons.dev)
 <img  width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" />
           
 
