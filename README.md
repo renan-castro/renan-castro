@@ -9,7 +9,7 @@
 
  ### Main skills:
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java)](https://skills.thijs.gg)
-![image]({https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white})
+<img src="{https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white}" />
 
 ### Certificados:
 [Programação Web com Java](https://github.com/renan-castro/certificados/blob/main/CERTIFICADOS%20-%20Outubro%2022-65.pdf) <br>
