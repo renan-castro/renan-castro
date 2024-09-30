@@ -8,9 +8,8 @@
 </div>
 
  ### Main skills:
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=java,js,css,html)](https://skillicons.dev)
 <img  width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" />
-<img width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
           
 
 ### Certificados:
