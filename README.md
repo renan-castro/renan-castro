@@ -6,6 +6,7 @@
           
 
 ### Certificados:
+[Agentforce AI Associate](https://github.com/renan-castro/certificados/blob/main/Cert5869622_AIAssociate_20250309.pdf) <br>
 [Programação Web com Java](https://github.com/renan-castro/certificados/blob/main/CERTIFICADOS%20-%20Outubro%2022-65.pdf) <br>
 [Programação Web com JavaScript](https://github.com/renan-castro/certificados/blob/main/CERTIFICADOS%20-%20Outubro%2022-98.pdf) <br>
 [Suporte Técnico em Tecnologia da Informação](https://github.com/renan-castro/certificados/blob/main/CERTIFICADO_RENAN_DE_CASTRO_RODRIGUES.pdf) <br>
