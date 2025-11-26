@@ -3,7 +3,7 @@
  ### Main skills:
 [![My Skills](https://skillicons.dev/icons?i=java,js,css,html,mysql,github,php,git,prisma,react)](https://skillicons.dev)
 <img  width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" />
-          
+<img width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apex/apex-original.svg" />
 
 ### Certificados:
 [Agentforce AI Associate](https://github.com/renan-castro/certificados/blob/main/Cert5869622_AIAssociate_20250309.pdf) <br>
