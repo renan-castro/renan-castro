@@ -9,3 +9,5 @@
 [Programação Web com Java](https://github.com/renan-castro/certificados/blob/main/CERTIFICADOS%20-%20Outubro%2022-65.pdf) <br>
 [Programação Web com JavaScript](https://github.com/renan-castro/certificados/blob/main/CERTIFICADOS%20-%20Outubro%2022-98.pdf) <br>
 [Suporte Técnico em Tecnologia da Informação](https://github.com/renan-castro/certificados/blob/main/CERTIFICADO_RENAN_DE_CASTRO_RODRIGUES.pdf)
+[SCRUM Fundamentals Certified](https://github.com/renan-castro/certificados/blob/main/ScrumFundamentalsCertified-RenanRodrigues-1108133.pdf)
+[Six Sigma Yellow Belt](https://github.com/renan-castro/certificados/blob/main/SixSigmaYellowBelt-RenanRodrigues-1127800.pdf)
